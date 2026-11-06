@@ -19,7 +19,7 @@ HTML5, CSS3, JavaScript (ES6)
 2. Open `index.html` in any browser
 
 ## Live demo
-(add your GitHub Pages link here later)
+https://hasinibavirisetty15-cpu.github.io/CodeAlpha_Calculator/
 
 ## Author
 Hasini Bavirisetty
